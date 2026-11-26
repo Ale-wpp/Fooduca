@@ -55,7 +55,7 @@ input::placeholder,textarea::placeholder{
   display:none!important
 }
 
-/* Marca superior tipo PDF */
+/* Marca superior */
 .brand-top{
   gap:10px;
   margin-bottom:8px
